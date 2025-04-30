@@ -1,4 +1,4 @@
-#Fun Little MCP Application
+## Fun Little MCP Application
 
 So, I kinda got curious about the buzz around Model Context Protocol and made one using Claude and a local sqlite database.. Gotta say tat its cool
 
