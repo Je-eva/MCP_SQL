@@ -63,6 +63,14 @@ python main.py
 ```
 
 ---
+## Video Demonstration
+The first video has only 3 tools hence 3 near the hammer(anvil) sign.. contaiinng only basic summary , duplicate finding
+
+https://github.com/user-attachments/assets/b10b740a-99d0-4f76-911f-df82b25f740d
+
+The second one contains 9 tools, where even more advanced questioning claude can be done like explain sales trend, kpi_analysis etc so on.
+https://drive.google.com/file/d/1Twshublzf4gQhZIm30mDh4dmb-_HUcDK/view?usp=sharing
+
 
 ## Guide to do the MCP 
 - [MCP](https://modelcontextprotocol.io)
