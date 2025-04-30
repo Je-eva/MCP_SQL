@@ -1,6 +1,5 @@
-# 📊 Sales Data Intelligence App (MCP-Powered)
+#Fun Little MCP Application
 
-This project demonstrates how to use a local SQLite database and [Claude Desktop's](https://claude.ai) **MCP (Multi-Component Prompting)** framework to analyze business sales data using AI-driven tools and prompts.
 So, I kinda got curious about the buzz around Model Context Protocol and made one using Claude and a local sqlite database.. Gotta say tat its cool
 
 It includes:
